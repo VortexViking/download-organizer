@@ -1,6 +1,9 @@
 # download-organizer
 a script for linux and mac
 
+THE SCRIPT WILL NOT WORK IF DIRECTORIES ARE NOT AUTOMATICALLY MADE.
+To have the directories automatcally made for you run [command.sh](command.sh)
+
 TO DOWNLOAD GO TO RELEASES TAB.
 
 The Current Organization is as below for version 1.0
@@ -11,7 +14,6 @@ Uses a while loop for constant checking.
 
 Following are Planning to be added in realease 1.1:
 
-To have the directories automatcally made for you run [command.sh](command.sh)
 
 - ORG
 - C++
