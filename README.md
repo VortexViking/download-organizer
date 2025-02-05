@@ -11,6 +11,8 @@ Uses a while loop for constant checking.
 
 Following are Planning to be added in realease 1.1:
 
+To have the directories automatcally made for you run [command.sh](command.sh)
+
 - ORG
 - C++
 - C#
