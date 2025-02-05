@@ -3,8 +3,8 @@ a script for linux and mac
 
 # Contents
 [Notes](#Notes)
-[Latest Release](#Latest_Release)
-[Next Release Plan](#Next_Release_Plan)
+[Latest Release](#latest-release)
+[Next Release Plan](#next-release-plan)
 
 # Notes
 THE SCRIPT WILL NOT WORK IF DIRECTORIES ARE NOT AUTOMATICALLY MADE.
