@@ -12,8 +12,8 @@ Following are Planning to be added in realease 1.1:
 - C#
 - JAVA
 - rar – RAR Archive
-.7z – 7-Zip Archive
-.tar – TAR Archive
-.gz – Gzip Compressed File
+- .7z – 7-Zip Archive
+- .tar – TAR Archive
+- .gz – Gzip Compressed File
 
 If you want to add more make a pull request.
