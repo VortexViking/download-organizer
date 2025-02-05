@@ -9,6 +9,8 @@ a script for linux and mac
 # Notes
 THE SCRIPT WILL NOT WORK IF DIRECTORIES ARE NOT AUTOMATICALLY MADE.
 To have the directories automatcally made for you run [command.sh](command.sh)
+THIS ONE IS ONLY FOR VERSION 1.0, THE ONES FOR FUTURE RELEASES WILL BE IN RELEASES TAB.
+
 
 Make the script exucuttable by running `chmod +x download-mover.sh`
 
