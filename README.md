@@ -5,6 +5,8 @@ The Current Organization is as below for version 1.0
 
 [![Screenshot-at-2025-02-05-08-16-14.png](https://i.postimg.cc/wTWm9kwN/Screenshot-at-2025-02-05-08-16-14.png)](https://postimg.cc/4m9d5pk4)
 
+Uses a while loop for constant checking.
+
 Following are Planning to be added in realease 1.1:
 
 - ORG
